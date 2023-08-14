@@ -17,7 +17,7 @@ export class Connections extends React.Component<
           <span className="text-blue-600">Connect</span>
         </div>
         <div className="text-700 mb-6">
-          Find me on social media, or by email to suddy121800@hotmail.com
+          Find me on social media, or by email to Perlerbeanss@gmail.com
         </div>
         <div className="grid">
           <div className="col-12 md:col-4 mb-4 px-5">
@@ -26,14 +26,14 @@ export class Connections extends React.Component<
               style={{ borderRadius: '10px' }}
             >
               <Link
-                to="https://github.com/SuddyN"
+                to="https://twitter.com/Pixelbeanss?s=20"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <i className="pi pi-github text-4xl text-blue-500"></i>
+                <i className="pi pi-twitter text-4xl text-blue-500"></i>
               </Link>
             </span>
-            <div className="text-900 text-xl mb-3 font-medium">GitHub</div>
+            <div className="text-900 text-xl mb-3 font-medium">Twitter</div>
             <span className="text-700 line-height-3"></span>
           </div>
           <div className="col-12 md:col-4 mb-4 px-5">
@@ -42,14 +42,14 @@ export class Connections extends React.Component<
               style={{ borderRadius: '10px' }}
             >
               <Link
-                to="https://www.linkedin.com/in/nathan-sudduth-46329b146/"
+                to="https://www.etsy.com/shop/PerlerBeanss?ref=profile_header"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <i className="pi pi-linkedin text-4xl text-blue-500"></i>
+                <i className="pi pi-shopping-bag text-4xl text-blue-500"></i>
               </Link>
             </span>
-            <div className="text-900 text-xl mb-3 font-medium">LinkedIn</div>
+            <div className="text-900 text-xl mb-3 font-medium">Etsy</div>
             <span className="text-700 line-height-3"></span>
           </div>
           <div className="col-12 md:col-4 mb-4 px-5">
@@ -58,14 +58,14 @@ export class Connections extends React.Component<
               style={{ borderRadius: '10px' }}
             >
               <Link
-                to="https://www.facebook.com/nathan.sudduth.3/"
+                to="https://www.paypal.me/pixelbeanss"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <i className="pi pi-facebook text-4xl text-blue-500"></i>
+                <i className="pi pi-paypal text-4xl text-blue-500"></i>
               </Link>
             </span>
-            <div className="text-900 text-xl mb-3 font-medium">Facebook</div>
+            <div className="text-900 text-xl mb-3 font-medium">PayPal</div>
             <span className="text-700 line-height-3"></span>
           </div>
         </div>
