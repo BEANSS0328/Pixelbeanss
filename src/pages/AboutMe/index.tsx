@@ -12,18 +12,14 @@ export class AboutMe extends React.Component<AboutMeProps, AboutMeState> {
       alt: '',
     },
     {
-      src: 'https://uploads-ssl.webflow.com/61b26b95323f091932df9027/62e6db0e5d99644fb0f03bc4_JRWI14-0223-min.jpg?width=1408&height=940',
-    },
-    {
       src: 'https://uploads-ssl.webflow.com/61b26b95323f091932df9027/62e6da9e2f9d22daf1065d6f_JRWI14-0996-min.jpg',
       alt: '',
     },
     {
-      src: 'https://pbs.twimg.com/media/FuMRydlXoAA-ozD?format=jpg&name=4096x4096',
-      alt: '',
+      src: 'https://uploads-ssl.webflow.com/61b26b95323f091932df9027/62e6db0e5d99644fb0f03bc4_JRWI14-0223-min.jpg?width=1408&height=940',
     },
     {
-      src: 'https://uploads-ssl.webflow.com/61b26b95323f091932df9027/620d7d1fed128710b301a84f_DSC_1351-min.jpg',
+      src: 'https://media.discordapp.net/attachments/240681609504882689/1140466354877640714/Patchwork-399.png?width=719&height=480',
       alt: '',
     },
   ];
@@ -78,35 +74,20 @@ export class AboutMe extends React.Component<AboutMeProps, AboutMeState> {
               >
                 <ul>
                   <li>
-                    Graduate Student of Computer Science at NC State University
+                    Undergraduate Student at NC State University
                   </li>
                   <li>
-                    Proficient frontend Software Engineer with fullstack
-                    experience
+                    Respected event organizer for tournaments in Raleigh, NC
                   </li>
                   <li>
-                    Developer of the open source modding project HewDraw Remix
-                  </li>
-                  <li>
-                    Respected event organizer for gaming tournaments in Raleigh
-                  </li>
-                  <li>
-                    Vice President of the Smash Ultimate Club @ NC State, with
-                    800 members
+                    Treasurer of the Smash Ultimate Club @ NC State, with 800 members and counting
                   </li>
                 </ul>
                 <p>
-                  I see it as my biggest strength that no matter what it is, if
-                  I'm passionate about it, I will make my way to the top. I've
-                  developed into a naturally extroverted person, and I enjoy
-                  creating experiences that can put smiles on the faces of
-                  others - especially with those people that I share common
-                  interests.
+                  
                 </p>
                 <p>
-                  I'm pursuing my graduate degree at NC State University, and
-                  I'm growing alongside my peers as I strive to create better
-                  and better events, experiences, and software.
+                  
                 </p>
               </ScrollPanel>
             </section>

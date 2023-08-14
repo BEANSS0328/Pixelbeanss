@@ -1,13 +1,10 @@
 import React from 'react';
 import { ScrollPanel } from 'primereact/scrollpanel';
 import { Connections } from '../../Components/Connections';
-import { Link } from 'react-router-dom';
-import { Button } from 'primereact/button';
-import { HDR } from '../../Components/HDR/HDR';
-import { StageComparison } from '../../Components/StageComparison';
-import { Coulomball } from '../../Components/Coulomball';
-import { GameEngine } from '../../Components/GameEngine';
-import { ThisWebsite } from '../../Components/ThisWebsite';
+import { Patchwork } from '../../Components/Patchwork';
+import { JRWI } from '../../Components/JRWI';
+import { Sonic } from '../../Components/Sonic';
+import { Perler } from '../../Components/Perler';
 
 interface HomeProps {}
 interface HomeState {}
@@ -20,10 +17,10 @@ export class Home extends React.Component<HomeProps, HomeState> {
           <div className="col-12 md:col-6 p-6 text-center md:text-left flex align-items-center ">
             <section>
               <span className="block text-6xl font-bold mb-1">
-                Nathan Sudduth
+                Kayla Hieser
               </span>
               <div className="text-6l text-primary font-bold mb-3">
-                Graduate Student & Software Engineer
+                Owner of @Pixelbeanss and Student at NC State University
               </div>
               <ScrollPanel
                 style={{
@@ -33,19 +30,13 @@ export class Home extends React.Component<HomeProps, HomeState> {
                 }}
               >
                 <p>
-                  Thank you for taking the time to view my portfolio! My name is
-                  Nathan, and I'm a graduate student, software engineer, game
-                  developer, community leader, and event organizer in Raleigh,
-                  NC.
+                  
                 </p>
                 <p>
-                  I'm most proficient in frontend design and development - I
-                  created this website myself - but I also have experience as a
-                  full-stack software engineer, and I know my way around Unity
-                  and Unreal Engine. Please see my resume for more details.
+                  
                 </p>
               </ScrollPanel>
-              <br />
+              {/* <br />
               <Link
                 to="https://docs.google.com/document/d/1wr9gfrOS60MqBxgUF92zscRS58QfeDLa/edit?usp=sharing&ouid=117947948488491982527&rtpof=true&sd=true"
                 target="_blank"
@@ -55,7 +46,7 @@ export class Home extends React.Component<HomeProps, HomeState> {
                   label="View My Resume"
                   className="mr-3 p-button-raised"
                 />
-              </Link>
+              </Link> */}
             </section>
           </div>
           <div
@@ -66,7 +57,7 @@ export class Home extends React.Component<HomeProps, HomeState> {
             }}
           >
             <img
-              src="https://cdn.discordapp.com/attachments/1034999594012127342/1113604190946742293/Kaylaspook-020.jpg"
+              src="https://cdn.discordapp.com/attachments/240681609504882689/1140467842509176832/PXL_20230506_2004406277.jpg"
               className="md:ml-auto block md:h-full"
               style={{
                 clipPath: 'polygon(8% 0, 100% 0%, 100% 100%, 0 100%)',
@@ -87,19 +78,16 @@ export class Home extends React.Component<HomeProps, HomeState> {
             These are the projects I'm most proud of, and most passionate about!
           </div>
         </div>
-        <HDR />
+        <Patchwork />
         <br />
         <br />
-        <StageComparison />
+        <JRWI />
         <br />
         <br />
-        <Coulomball />
+        <Sonic />
         <br />
         <br />
-        <GameEngine />
-        <br />
-        <br />
-        <ThisWebsite />
+        <Perler />
         <br />
         <br />
         <Connections />
