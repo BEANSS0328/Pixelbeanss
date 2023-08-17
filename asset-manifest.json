@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.e13f443b.css",
-    "main.js": "/Portfolio/static/js/main.89f9f2b9.js",
-    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/primeicons.svg": "/Portfolio/static/media/primeicons.e1441b135b3ca9ad643c.svg",
-    "static/media/primeicons.eot": "/Portfolio/static/media/primeicons.d44157bdfa026dc877af.eot",
-    "static/media/primeicons.woff": "/Portfolio/static/media/primeicons.10d3152104f2208ac82a.woff",
-    "static/media/primeicons.ttf": "/Portfolio/static/media/primeicons.ea5358601d0a3fd6670b.ttf",
-    "static/media/primeicons.woff2": "/Portfolio/static/media/primeicons.78172950b335ccdb94e2.woff2",
-    "static/media/color.png": "/Portfolio/static/media/color.6441e63a57ccc5105bad.png",
-    "index.html": "/Portfolio/index.html",
-    "main.e13f443b.css.map": "/Portfolio/static/css/main.e13f443b.css.map",
-    "main.89f9f2b9.js.map": "/Portfolio/static/js/main.89f9f2b9.js.map",
-    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/Pixelbeanss/static/css/main.cfcba7ca.css",
+    "main.js": "/Pixelbeanss/static/js/main.9a01123a.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Pixelbeanss/static/js/787.1ed0c42c.chunk.js",
+    "static/media/primeicons.svg": "/Pixelbeanss/static/media/primeicons.e1441b135b3ca9ad643c.svg",
+    "static/media/primeicons.eot": "/Pixelbeanss/static/media/primeicons.d44157bdfa026dc877af.eot",
+    "static/media/primeicons.woff": "/Pixelbeanss/static/media/primeicons.10d3152104f2208ac82a.woff",
+    "static/media/primeicons.ttf": "/Pixelbeanss/static/media/primeicons.ea5358601d0a3fd6670b.ttf",
+    "static/media/primeicons.woff2": "/Pixelbeanss/static/media/primeicons.78172950b335ccdb94e2.woff2",
+    "static/media/color.png": "/Pixelbeanss/static/media/color.6441e63a57ccc5105bad.png",
+    "index.html": "/Pixelbeanss/index.html",
+    "main.cfcba7ca.css.map": "/Pixelbeanss/static/css/main.cfcba7ca.css.map",
+    "main.9a01123a.js.map": "/Pixelbeanss/static/js/main.9a01123a.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Pixelbeanss/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e13f443b.css",
-    "static/js/main.89f9f2b9.js"
+    "static/css/main.cfcba7ca.css",
+    "static/js/main.9a01123a.js"
   ]
 }
